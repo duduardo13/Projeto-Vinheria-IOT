@@ -23,9 +23,9 @@ para valores acima de 15°C e também mostrar a temperatura;
 Baixa”, para valores abaixo de 10°C e também mostrar a temperatura;
 11. Enquanto a umidade estiver fora da faixa ideal, o LED Vermelho deve ficar aceso e o
 Buzzer deve ligar continuamente;
-12.Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Alta”,
+12. Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Alta”,
 para valores acima de 70% e também mostrar a umidade;
-13.Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Baixa”,
+13. Enquanto a umidade estiver fora da faixa ideal, o Display deve informar “Umidade. Baixa”,
 para valores abaixo de 50% e também mostrar a umidade;
 
 # Imagem ilustrativa do projeto
