@@ -1,4 +1,4 @@
-# Projeto de Vinheria feito no Tinkercad
+![EXEMPLO TUDO MEDIO](https://github.com/user-attachments/assets/d056dffe-7e03-44c2-97fc-4a0a92a923c4)# Projeto de Vinheria feito no Tinkercad
 --------------------------------------------------
 Elaborado por:
 
@@ -40,3 +40,17 @@ para valores abaixo de 50% e também mostrar a umidade;
 
 # Componentes Utilizados
 ![image](https://github.com/user-attachments/assets/9a8068a8-2397-4073-8434-d81894585def)
+
+# - Execução (Baixa temperatura, Baixa umidade e Baixa luminosidade)
+![EXEMPLO TUDO BAIXO](https://github.com/user-attachments/assets/0ac01adf-df32-470e-b7cb-3f6331f985d3)
+
+# - Execução (Média temperatura, Média umidade e Média luminosidade)
+![EXEMPLO TUDO MEDIO](https://github.com/user-attachments/assets/197a0afd-0d32-49b3-8d19-c93c354be48a)
+
+
+# - Execução (Alta temperatura, Alta umidade e Alta luminosidade)
+![EXEMPLO TUDO ALTO](https://github.com/user-attachments/assets/f7ba5337-c336-4836-bac1-fb49a2d4f53c)
+
+
+
+
