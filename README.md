@@ -2,9 +2,10 @@
 --------------------------------------------------
 Elaborado por:
 
-- Cesar Beda;
-- Eduardo Barbosa Rodrigues;
-- Vinicius Pontes Oliva.
+- Cesar Beda Candido da Silva ~ CB302704X;
+- Caua Barros da Costa ~ CB3025179;
+- Eduardo Barbosa Rodrigues ~ CB302637X;
+- Vinicius Pontes Oliva ~ CB3025764.
 
 Requisitos:
 
