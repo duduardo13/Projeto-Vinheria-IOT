@@ -1,4 +1,10 @@
 # Projeto de Vinheria feito no Tinkercad
+--------------------------------------------------
+Elaborado por:
+
+Cesar Beda;
+Eduardo Barbosa Rodrigues;
+Vinicius Pontes Oliva.
 
 Requisitos:
 
