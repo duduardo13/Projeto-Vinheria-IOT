@@ -1,4 +1,4 @@
-![EXEMPLO TUDO MEDIO](https://github.com/user-attachments/assets/d056dffe-7e03-44c2-97fc-4a0a92a923c4)# Projeto de Vinheria feito no Tinkercad
+# Projeto de Vinheria feito no Tinkercad
 --------------------------------------------------
 Elaborado por:
 
@@ -7,6 +7,7 @@ Elaborado por:
 - Eduardo Barbosa Rodrigues ~ CB302637X;
 - Vinicius Pontes Oliva ~ CB3025764.
 
+# Link para acessar o projeto: https://www.tinkercad.com/things/9D8olOCqAUa-vinheria-eduardo
 Requisitos:
 
 1. Enquanto o ambiente estiver escuro, o LED Verde deve ficar aceso;
