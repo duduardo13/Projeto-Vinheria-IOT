@@ -2,9 +2,9 @@
 --------------------------------------------------
 Elaborado por:
 
-Cesar Beda;
-Eduardo Barbosa Rodrigues;
-Vinicius Pontes Oliva.
+- Cesar Beda;
+- Eduardo Barbosa Rodrigues;
+- Vinicius Pontes Oliva.
 
 Requisitos:
 
