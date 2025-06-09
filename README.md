@@ -30,3 +30,6 @@ para valores abaixo de 50% e também mostrar a umidade;
 
 # Imagem ilustrativa do projeto
 ![image](https://github.com/user-attachments/assets/ab383cf2-8b98-48ab-a228-f6f6ed4b93ee)
+
+# Componentes Utilizados
+![image](https://github.com/user-attachments/assets/9a8068a8-2397-4073-8434-d81894585def)
