@@ -7,7 +7,9 @@ Elaborado por:
 - Eduardo Barbosa Rodrigues ~ CB302637X;
 - Vinicius Pontes Oliva ~ CB3025764.
 
-# Link para acessar o projeto: https://www.tinkercad.com/things/9D8olOCqAUa-vinheria-eduardo
+# Link para acessar o projeto:
+https://www.tinkercad.com/things/9D8olOCqAUa-vinheria-eduardo
+--------------------------------------------------
 Requisitos:
 
 1. Enquanto o ambiente estiver escuro, o LED Verde deve ficar aceso;
