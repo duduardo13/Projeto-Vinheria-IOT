@@ -10,8 +10,8 @@ Elaborado por:
 # Link para acessar o projeto:
 https://www.tinkercad.com/things/9D8olOCqAUa-vinheria-eduardo
 
-# Link para acessar a execução projeto e esclarecimentos:
-
+# Link para acessar execução do projeto e esclarecimentos:
+https://youtu.be/ndbyrEXAzOo
 
 # Requisitos:
 
